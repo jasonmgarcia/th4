@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# th4
+#
+
+projectname: th4
+vendorid: com.jason
+mainmodule: com.jason.th4
